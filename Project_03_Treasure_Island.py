@@ -91,3 +91,4 @@ elif first == 'left':
       |_.__/ \___|\__,_|_|   
                   ''')
       print("You were eaten by a bear, game over.")
+      
