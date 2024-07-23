@@ -2,25 +2,23 @@
 </h1>
 Different programming concepts and projects using Python
 
-<h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
-</h1>
 
 ## 🔰 Beginner
 
 - Day 01: Band Name Generator
 - Day 02: Tip Calculator
 - Day 03: Treasure Island
-- [Day 4:](https://github.com/phillipai/100-days-of-code-python/tree/main/day04) Randomization and Python Lists
-- [Day 5:](https://github.com/phillipai/100-days-of-code-python/tree/main/day05) Python Loops
-- [Day 6:](https://github.com/phillipai/100-days-of-code-python/tree/main/day06) Python Functions & Karel
-- [Day 7:](https://github.com/phillipai/100-days-of-code-python/tree/main/day07) Hangman
-- [Day 8:](https://github.com/phillipai/100-days-of-code-python/tree/main/day08) Function Parameters & Caesar Cipher
-- [Day 9:](https://github.com/phillipai/100-days-of-code-python/tree/main/day09) Dictionaries, Nesting and the Secret Auction
-- [Day 10:](https://github.com/phillipai/100-days-of-code-python/tree/main/day10) Functions with Outputs
-- [Day 11:](https://github.com/phillipai/100-days-of-code-python/tree/main/day11) The Blackjack Capstone Project
-- [Day 12:](https://github.com/phillipai/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
-- [Day 13:](https://github.com/phillipai/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
-- [Day 14:](https://github.com/phillipai/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
+- Day 04: Band Name Generator
+- Day 05: Tip Calculator
+- Day 06: Treasure Island
+- Day 07: Band Name Generator
+- Day 08: Tip Calculator
+- Day 09: Treasure Island
+- Day 10: Band Name Generator
+- Day 11: Tip Calculator
+- Day 12: Treasure Island
+- Day 13: 
+- Day 14: 
 
 ## 📚 Intermediate
 
