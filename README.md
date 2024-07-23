@@ -1,4 +1,4 @@
-<h1 align="center">Learning_Python_Programming
+<h1 align="center">Learning Python Programming
 </h1>
 Different programming concepts and projects using Python
 
@@ -8,15 +8,15 @@ Different programming concepts and projects using Python
 - Day 01: Band Name Generator
 - Day 02: Tip Calculator
 - Day 03: Treasure Island
-- Day 04: Band Name Generator
-- Day 05: Tip Calculator
-- Day 06: Treasure Island
-- Day 07: Band Name Generator
-- Day 08: Tip Calculator
-- Day 09: Treasure Island
-- Day 10: Band Name Generator
-- Day 11: Tip Calculator
-- Day 12: Treasure Island
+- Day 04: 
+- Day 05: 
+- Day 06: 
+- Day 07: 
+- Day 08: 
+- Day 09: 
+- Day 10: 
+- Day 11: 
+- Day 12: 
 - Day 13: 
 - Day 14: 
 
