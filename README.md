@@ -1,4 +1,5 @@
-# Learning_Python_Programming
+<h1 align="center">Learning_Python_Programming
+</h1>
 Different programming concepts and projects using Python
 
 <h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
