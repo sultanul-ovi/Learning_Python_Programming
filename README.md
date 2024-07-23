@@ -2,23 +2,22 @@
 </h1>
 Different programming concepts and projects using Python
 
-
 ## 🔰 Beginner
 
 - Day 01: Band Name Generator
 - Day 02: Tip Calculator
 - Day 03: Treasure Island
-- Day 04: 
-- Day 05: 
-- Day 06: 
-- Day 07: 
-- Day 08: 
-- Day 09: 
-- Day 10: 
-- Day 11: 
-- Day 12: 
-- Day 13: 
-- Day 14: 
+- Day 04:
+- Day 05:
+- Day 06:
+- Day 07:
+- Day 08:
+- Day 09:
+- Day 10:
+- Day 11:
+- Day 12:
+- Day 13:
+- Day 14:
 
 ## 📚 Intermediate
 
@@ -94,10 +93,10 @@ Different programming concepts and projects using Python
 - [Day 78:](https://github.com/phillipai/100-days-of-code-python/tree/main/day78) Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 - [Day 79:](https://github.com/phillipai/100-days-of-code-python/tree/main/day79) The Tragic Discovery of Handwashing: t-Tests & Distributions
 - [Day 80:](https://github.com/phillipai/100-days-of-code-python/tree/main/day80) Capstone Project - Predict House Prices
+- [Day 81:](https://github.com/phillipai/100-days-of-code-python/tree/main/day81) Text to Morse Code Converter
 
 ## ⚔ Professional Portfolio Projects
 
-- [Day 81:](https://github.com/phillipai/100-days-of-code-python/tree/main/day81) Text to Morse Code Converter
 - [Day 82:](https://github.com/phillipai/100-days-of-code-python/tree/main/day82) Portfolio Website
 - [Day 83:](https://github.com/phillipai/100-days-of-code-python/tree/main/day83) Tic Tac Toe
 - [Day 84:](https://github.com/phillipai/100-days-of-code-python/tree/main/day84) Image Watermarking Desktop App
@@ -156,4 +155,3 @@ Different programming concepts and projects using Python
 - Authentication
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
-
