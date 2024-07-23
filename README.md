@@ -39,7 +39,7 @@ Different programming concepts and projects using Python
 - [Day 30:](https://github.com/phillipai/100-days-of-code-python/tree/main/day30) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/phillipai/100-days-of-code-python/tree/main/day31) Flash Card App Capstone Project
 
-## 👨‍💻 Intermediate+
+## 👨‍💻 Proficient
 
 - [Day 32:](https://github.com/phillipai/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - [Day 33:](https://github.com/phillipai/100-days-of-code-python/tree/main/day33) API Endpoints & API Parameters - ISS Overhead Notifier
